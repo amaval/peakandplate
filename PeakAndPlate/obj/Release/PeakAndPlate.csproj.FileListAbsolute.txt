@@ -1,0 +1,10 @@
+D:\Work\PeakAndPlate\PeakAndPlate\bin\Release\PicoPlaca.exe.config
+D:\Work\PeakAndPlate\PeakAndPlate\bin\Release\PicoPlaca.exe
+D:\Work\PeakAndPlate\PeakAndPlate\bin\Release\PicoPlaca.pdb
+D:\Work\PeakAndPlate\PeakAndPlate\obj\Release\PicoPlaca.PPValidator.resources
+D:\Work\PeakAndPlate\PeakAndPlate\obj\Release\PicoPlaca.Properties.Resources.resources
+D:\Work\PeakAndPlate\PeakAndPlate\obj\Release\PeakAndPlate.csproj.GenerateResource.Cache
+D:\Work\PeakAndPlate\PeakAndPlate\obj\Release\PeakAndPlate.csproj.CoreCompileInputs.cache
+D:\Work\PeakAndPlate\PeakAndPlate\obj\Release\PicoPlaca.exe
+D:\Work\PeakAndPlate\PeakAndPlate\obj\Release\PicoPlaca.pdb
+D:\Work\PeakAndPlate\PeakAndPlate\obj\Release\PeakAndPlate.csprojResolveAssemblyReference.cache

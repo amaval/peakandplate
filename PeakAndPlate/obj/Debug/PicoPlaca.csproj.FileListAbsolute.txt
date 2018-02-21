@@ -1,0 +1,10 @@
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.exe.config
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.exe
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.pdb
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csprojResolveAssemblyReference.cache
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.Properties.Resources.resources
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csproj.GenerateResource.Cache
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csproj.CoreCompileInputs.cache
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.exe
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.pdb
+D:\Work\Pico_y_Placa\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.PPValidator.resources
